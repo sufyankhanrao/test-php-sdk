@@ -3,7 +3,7 @@
     "description": "Testing Special JsonValue feature",
     "type": "library",
     "keywords": [
-        "JsonValueTester",
+        "Json Value Tester",
         "API",
         "SDK"
     ],

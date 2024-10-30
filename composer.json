@@ -7,15 +7,16 @@
         "API",
         "SDK"
     ],
-    "homepage": "https://apimatic.io",
+    "homepage": "https://www.apimatic.io",
     "license": [
         "MIT"
     ],
     "authors": [
         {
-            "name": "testing",
-            "email": "test@gmail.com",
-            "homepage": "https://apimatic.io"
+            "name": "APIMatic Code Generator",
+            "email": "support@apimatic.io",
+            "homepage": "https://www.apimatic.io",
+            "role": "API Tool"
         }
     ],
     "require": {
